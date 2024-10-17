@@ -15,4 +15,5 @@ for i in s1:
 			s3.append(i)
 			s3.append(j)
 print(s3)
+print("hello")
 		
